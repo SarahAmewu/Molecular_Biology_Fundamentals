@@ -1,4 +1,4 @@
-#Molecular Biology Fundamentals#
-This is a folder containing some basic coding challenges from Rosalind, and its a great way to start my personal journey from Biomedical Engineering into Molecular Biology. 
+**Molecular_Biology_Fundamentals** is a personal repo I created to build upon my knowlege in 
+biology, genomics, and also develop computational molecular biology skills. I aspire to be a Molecular Biology researcher in the future, and this is a sure way for me to tow that line. 
 
-It is also a great way to begin to develop my research skills. 
+The **Rosalind_Solutions** folder is one that contains various codes I wrote from practice tests to sharpen my python skills. 
